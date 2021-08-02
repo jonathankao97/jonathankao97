@@ -8,8 +8,6 @@ In my free time, I enjoy watching sports, spending time with friends/family, and
 
 Feel free to reach out for anything at jkao97@wharton.upenn.edu!
 
-### Github Stats
-
 [![Jonathan's Github Stats](https://github-readme-stats.vercel.app/api?username=jonathankao97&count_private=true&theme=default&show_icons=true)](https://github.com/jonathankao97)
 
 <!--
