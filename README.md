@@ -6,7 +6,7 @@ I'm a [Management and Technology (M&T)](https://fisher.wharton.upenn.edu) studen
 
 -   🔭 I'm currently an intern at [Tempus Ex](https://tempus-ex.com/), a team lead at [Penn Labs](https://pennlabs.org/), and developing version 3 of [UmpCast](https://github.com/UmpCast)
 -   🌱 I'm currently learning to write higher quality, scalable, and maintainable software
--   ⚡ I'm interested in [Kubernetes](https://kubernetes.io/)
+-   ⚡ I'm interested in [Kubernetes](https://github.com/kubernetes/kubernetes), [Terraform](https://github.com/hashicorp/terraform), and CDK
 -   😄 I tutor and mentor high school students
 -   💬 Ask me about fantasy football, baseball, or poker
 -   📫 How to reach me: jkao97@wharton.upenn.edu
