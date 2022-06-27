@@ -1,12 +1,15 @@
 ### Hi there, I'm Jonathan 👋
 
-I'm currently a student at the University of Pennsylvania's [Management and Technology (M&T)](https://fisher.wharton.upenn.edu) Program! I'm pursuing a B.S.E in Computer Science form the School of Engineering and a B.S in Economics from the Wharton School. I have particular interests in entrepreneurship and creating high quality, maintainable software.
+[![Github](https://img.shields.io/github/followers/jonathankao97?label=Follow&style=social)](https://github.com/jonathankao97)
 
-I'm currently an engineering intern at [Very Good Ventures](https://github.com/VGVentures) and also have been spending time developing version 3 of [UmpCast](https://github.com/UmpCast), a personal software project deployed to several local baseball little leagues. 
+I'm a [Management and Technology (M&T)](https://fisher.wharton.upenn.edu) student studying Computer Science (Penn Engineering) and Finance (Wharton).
 
-In my free time, I enjoy watching sports, spending time with friends/family, and learning more about poker.
-
-Feel free to reach out for anything at jkao97@wharton.upenn.edu!
+-   🔭 I'm currently an intern at [Tempus Ex](https://tempus-ex.com/), a team lead at [Penn Labs](https://pennlabs.org/), and developing version 3 of [UmpCast](https://github.com/UmpCast)
+-   🌱 I'm currently learning to write higher quality, scalable, and maintainable software
+-   ⚡ I'm interested in [Kubernetes](https://kubernetes.io/)
+-   😄 I tutor and mentor high school students
+-   💬 Ask me about fantasy football, baseball, or poker
+-   📫 How to reach me: jkao97@wharton.upenn.edu
 
 [![Jonathan's Github Stats](https://github-readme-stats.vercel.app/api?username=jonathankao97&count_private=true&theme=default&show_icons=true)](https://github.com/jonathankao97)
 
